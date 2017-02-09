@@ -10,13 +10,13 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>0f7b1cf2-a628-4bef-8e4b-3e18d92c90e2</PackageIdentityName>
     <PackageIdentityPublisher>CN=ivar.tutt</PackageIdentityPublisher>
-    <IntermediateOutputPath>c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>54C7BC9191CC1527708AEDF55C93DEED2F35CC0EBC0775FD5956D481ABC1B7C1</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>B0F1D5BC66EB6E26CB2A8FA1EBB327931FDDEBD1AEEC29DD666AEA02F9F4BD8E</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>0f7b1cf2-a628-4bef-8e4b-3e18d92c90e2_1.0.0.0_x86__rx44940q0kwfa</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>0f7b1cf2-a628-4bef-8e4b-3e18d92c90e2_rx44940q0kwfa!App</RegisteredUserModeAppID>
     <RegisteredPackageID>0f7b1cf2-a628-4bef-8e4b-3e18d92c90e2</RegisteredPackageID>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-08T13:02:11.204</Modified>
+      <Modified>2017-02-09T09:21:02.452</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\InfokioskVIKK.exe">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\InfokioskVIKK.exe">
       <PackagePath>entrypoint\InfokioskVIKK.exe</PackagePath>
-      <Modified>2017-02-08T13:02:09.637</Modified>
+      <Modified>2017-02-09T09:21:01.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ivar.tutt\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -448,60 +448,60 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-22T20:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-02-08T11:55:16.001</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-09-20T15:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T15:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T15:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T15:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T15:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T15:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T15:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\InfokioskVIKK.xr.xml">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\InfokioskVIKK.xr.xml">
       <PackagePath>InfokioskVIKK.xr.xml</PackagePath>
-      <Modified>2017-02-08T13:02:09.516</Modified>
+      <Modified>2017-02-09T09:21:01.793</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-02-03T12:29:10.492</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-08T13:02:11.032</Modified>
+      <Modified>2017-02-09T09:21:02.268</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\ivar.tutt\documents\visual studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\Core\InfokioskVIKK.exe">
+    <AppxPackagedFile Include="C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\Core\InfokioskVIKK.exe">
       <PackagePath>InfokioskVIKK.exe</PackagePath>
-      <Modified>2017-02-08T13:02:11.202</Modified>
+      <Modified>2017-02-09T09:21:02.450</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
