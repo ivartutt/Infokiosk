@@ -209,4 +209,5 @@ C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\Infokiosk
 C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\obj\x86\Debug\Pages\Tunniplaan.xbf
 C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\obj\x86\Debug\Pages\Uudised.xbf
 C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\obj\x86\Debug\Pages\Avaleht.xbf
+C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\bin\x86\Debug\Newtonsoft.Json.dll
 C:\Users\ivar.tutt\Documents\Visual Studio 2015\Projects\InfokioskVIKK\InfokioskVIKK\obj\x86\Debug\InfokioskVIKK.csprojResolveAssemblyReference.cache

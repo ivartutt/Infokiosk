@@ -27,7 +27,7 @@
                     Grid.ColumnSpan="2"
                     Padding="20"
                     Name="contentFrame">
-            <Rectangle Fill="AliceBlue"></Rectangle>
+            <Rectangle Fill="LimeGreen"></Rectangle>
         </Frame>
 
         <RelativePanel Grid.Row="0">
@@ -36,7 +36,9 @@
                     Content="&#xE72B;"
                     FontSize="30" 
                     Click="backButton_Click"
-                    Width="50">
+                    Width="50"
+                    Foreground="LimeGreen"
+                    Background="Black">
             </Button>
         </RelativePanel>
 
@@ -46,7 +48,9 @@
                     Content="&#xE700;"
                     FontSize="30" 
                     Click="hamburgerButton_Click"
-                    Width="50">
+                    Width="50"
+                    Background="Black"
+                    Foreground="LimeGreen">
             </Button>
 
         </RelativePanel>
@@ -65,14 +69,17 @@
                 <ListBox SelectionMode="Single"
                          Name="IconsListBox" 
                          SelectionChanged="IconsListBox_SelectionChanged"
+                         Background="Black"
                          >
                     <ListBoxItem Name="AvalehtBoxItem">
                         <StackPanel Orientation="Horizontal">
                             <TextBlock FontFamily="Segoe MDL2 Assets"
                                        FontSize="26"
-                                       Text="&#xE80F;">
+                                       Text="&#xE80F;"
+                                       Foreground="LimeGreen">
                             </TextBlock>
                             <TextBlock Text="Avaleht"
+                                       Foreground="LimeGreen"
                                        FontSize="24"
                                        Margin="20,0,0,0">
 
@@ -83,9 +90,11 @@
                         <StackPanel Orientation="Horizontal">
                             <TextBlock FontFamily="Segoe MDL2 Assets"
                                        FontSize="26"
-                                       Text="&#xE909;">
+                                       Text="&#xE909;"
+                                       Foreground="LimeGreen">
                             </TextBlock>
                             <TextBlock Text="Uudised"
+                                       Foreground="LimeGreen"
                                        FontSize="24"
                                        Margin="20,0,0,0">
 
@@ -96,11 +105,13 @@
                         <StackPanel Orientation="Horizontal">
                             <TextBlock FontFamily="Segoe MDL2 Assets"
                                        FontSize="26"
-                                       Text="&#xE787;">
+                                       Text="&#xE787;"
+                                       Foreground="LimeGreen">
                             </TextBlock>
                             <TextBlock Text="Tunniplaan"
                                        FontSize="24"
-                                       Margin="20,0,0,0">
+                                       Margin="20,0,0,0"
+                                       Foreground="LimeGreen">
 
                             </TextBlock>
                         </StackPanel>
@@ -110,9 +121,11 @@
                             <TextBlock FontFamily="Segoe MDL2 Assets"
                                        FontSize="26"
                                        Text="&#xE716;"
+                                       Foreground="LimeGreen"
                                        >
                             </TextBlock>
                             <TextBlock Text="Kontaktid"
+                                       Foreground="LimeGreen"
                                        FontSize="24"
                                        Margin="20,0,0,0">
 

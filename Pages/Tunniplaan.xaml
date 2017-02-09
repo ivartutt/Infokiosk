@@ -8,24 +8,38 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Frame      Grid.Row="1"
+                    Grid.Column="1"
+                    Grid.RowSpan="2"
+                    Grid.ColumnSpan="2"
+                    Name="contentFrame">
+            <Rectangle Fill="LimeGreen"></Rectangle>
+        </Frame>
         <Pivot>
             <PivotItem>
                 <PivotItem.Header>
                     <StackPanel>
                         <FontIcon HorizontalAlignment="Center"
                                   Glyph="&#xE716;"
+                                  Foreground="Black"
                                   FontSize="16"></FontIcon>
-                        <TextBlock Text="Õpetaja"></TextBlock>
+                        <TextBlock Text="Grupp"
+                                   Foreground="Black"></TextBlock>
                     </StackPanel>
                 </PivotItem.Header>
+                <StackPanel>
+                    <TextBlock Name="sisuBlock"></TextBlock>
+                </StackPanel>
             </PivotItem>
             <PivotItem>
                 <PivotItem.Header>
                     <StackPanel>
                         <FontIcon HorizontalAlignment="Center"
                                   Glyph="&#xE77B;"
+                                  Foreground="Black"
                                   FontSize="16"></FontIcon>
-                        <TextBlock Text="Ruum"></TextBlock>
+                        <TextBlock Text="Õpetaja"
+                                   Foreground="Black"></TextBlock>
                     </StackPanel>
                 </PivotItem.Header>
             </PivotItem>
@@ -34,8 +48,10 @@
                     <StackPanel>
                         <FontIcon HorizontalAlignment="Center"
                                   Glyph="&#xE780F;"
+                                  Foreground="Black"
                                   FontSize="16"></FontIcon>
-                        <TextBlock Text="Õpilane"></TextBlock>
+                        <TextBlock Text="Ruum"
+                                   Foreground="Black"></TextBlock>
                     </StackPanel>
                 </PivotItem.Header>
             </PivotItem>

@@ -8,6 +8,13 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Frame      Grid.Row="1"
+                    Grid.Column="1"
+                    Grid.RowSpan="2"
+                    Grid.ColumnSpan="2"
+                    Name="contentFrame">
+            <Rectangle Fill="LimeGreen"></Rectangle>
+        </Frame>
         <StackPanel>
             <TextBlock FontSize="50" Text="Tere"></TextBlock>
         </StackPanel>
